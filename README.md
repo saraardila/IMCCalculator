@@ -1,12 +1,6 @@
 # IMCCalculator
 Aplicación que calcula el índice de masa corportal según los datos que indica el usuario.
 
-
-## Enlace del Curso
-Aplicación creada en Kotlin Desarrollada con el Curso del programador mobile Aristidevs.
-Puedes acceder al curso en YouTube a través del siguiente enlace:
-[Ver Curso de Aristidevs](https://www.youtube.com/watch?v=vJapzH_46a8&ab_channel=Programaci%C3%B3nAndroidbyAristiDevs)
-
 ## Capturas de pantalla
 
 A continuación, se muestran las capturas de pantalla de la aplicación:
@@ -17,7 +11,7 @@ A continuación, se muestran las capturas de pantalla de la aplicación:
 
 
 ## Lo que he aprendido
-A lo largo del curso, adquirí conocimientos y experiencia valiosos en el desarrollo de aplicaciones para Android. Aquí tienes algunos de los temas clave y habilidades que adquirí:
+Gané conocimientos y experiencia valiosos en el desarrollo de aplicaciones para Android. Aquí tienes algunos de los temas clave y habilidades que adquirí:
 
 - Creación de un menú de navegación para una navegación fluida en la aplicación.
 - Diseño y programación de una aplicación completa para calcular el Índice de Masa Corporal (IMC), que incluye:
