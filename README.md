@@ -13,7 +13,8 @@ A continuación, se muestran las capturas de pantalla de la aplicación:
 
 | App Cálculo Indice de masa corporal | Segunda pantalla cálculo IMC |
 |:---:|:---:|
-|![image](https://github.com/saraardila/Curso-Kotlin-Principiante/assets/82755257/91eeb2f8-feff-4482-8477-de046741842e)| ![image](https://github.com/saraardila/Curso-Kotlin-Principiante/assets/82755257/ec41fa10-ed02-4571-a924-ab4ad3262121)|
+|![image](https://github.com/saraardila/IMCCalculator/assets/82755257/0997ecf1-a817-4d3d-8d68-c9282df93fe2)| ![image](https://github.com/saraardila/IMCCalculator/assets/82755257/5ff10afd-bb78-4eb7-afbc-15cc4f3dc391)|
+
 
 ## Lo que he aprendido
 A lo largo del curso, adquirí conocimientos y experiencia valiosos en el desarrollo de aplicaciones para Android. Aquí tienes algunos de los temas clave y habilidades que adquirí:
